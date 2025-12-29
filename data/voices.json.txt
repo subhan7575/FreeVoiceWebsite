@@ -1,0 +1,25 @@
+{
+    "voices": [
+        {
+            "id": 1,
+            "name": "Standard Male",
+            "type": "free",
+            "file": "voices/standard_male.voice",
+            "description": "Basic male voice for offline use."
+        },
+        {
+            "id": 2,
+            "name": "Standard Female",
+            "type": "free",
+            "file": "voices/standard_female.voice",
+            "description": "Basic female voice for offline use."
+        },
+        {
+            "id": 3,
+            "name": "Robot Voice",
+            "type": "free",
+            "file": "voices/robot.voice",
+            "description": "Fun robotic voice for offline use."
+        }
+    ]
+}
