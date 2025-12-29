@@ -1,0 +1,28 @@
+{
+    "premium_voices": [
+        {
+            "id": 101,
+            "name": "Ultra Realistic Male",
+            "type": "premium",
+            "file": "voices/ultra_male.voice",
+            "description": "High-quality male voice, premium-only.",
+            "requires_membership": true
+        },
+        {
+            "id": 102,
+            "name": "Ultra Realistic Female",
+            "type": "premium",
+            "file": "voices/ultra_female.voice",
+            "description": "High-quality female voice, premium-only.",
+            "requires_membership": true
+        },
+        {
+            "id": 103,
+            "name": "Live Voice Changer",
+            "type": "premium",
+            "file": "voices/live.voice",
+            "description": "Real-time live voice changing, requires active membership.",
+            "requires_membership": true
+        }
+    ]
+}
