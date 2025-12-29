@@ -1,0 +1,14 @@
+// assets/js/main.js
+
+// You can add interactivity later
+console.log("Free Voice website loaded");
+
+// Example: Smooth scroll for anchor links
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+        e.preventDefault();
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+        });
+    });
+});
